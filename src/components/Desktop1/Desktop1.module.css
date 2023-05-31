@@ -1,0 +1,644 @@
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  padding: 45px 25px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.jEntretiensMaChaudiereTousLesA {
+  color: #dd2e44;
+  font-size: 65px;
+  font-family: Trochut, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.containerBloc {
+  position: relative;
+  width: 1308px;
+  height: 306px;
+}
+.container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0.3268%;
+  bottom: 0;
+  width: 1308px;
+  height: 305px;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  background-color: #fff;
+}
+.rectangle6 {
+  transform-origin: top left;
+  position: absolute;
+  left: 66.8615%;
+  right: 21.6706%;
+  top: 98.1827%;
+  bottom: -47.2023%;
+  width: 150px;
+  height: 150px;
+  background-color: #ff9e03;
+  transform: matrix(-1, 0.0007, -0.0007, -1, 0, 0);
+}
+.jECREEMONALERTE {
+  transform-origin: top left;
+  color: #292f33;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 56.312%;
+  right: 34.3608%;
+  top: 78.5789%;
+  bottom: 10.6368%;
+  width: 122px;
+  height: 33px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.iconParkAlarm {
+  position: absolute;
+  left: 59.413%;
+  right: 36.9173%;
+  top: 52.3928%;
+  bottom: 31.9209%;
+  width: 48px;
+  height: 48px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.phCalendarLight {
+  position: absolute;
+  left: 58.7156%;
+  right: 37.156%;
+  top: 4.2484%;
+  bottom: 82.0261%;
+  width: 54px;
+  height: 42px;
+  overflow: hidden;
+}
+.rectangle5 {
+  transform-origin: top left;
+  position: absolute;
+  left: 66.7515%;
+  right: 21.7806%;
+  top: 49.0196%;
+  bottom: 1.9608%;
+  width: 150px;
+  height: 150px;
+  background-color: #dd2e44;
+  transform: matrix(-1, 0.0007, -0.0007, -1, 0, 0);
+}
+.qUANDFAIREENTRETENIRMACHAUDIER {
+  transform-origin: top left;
+  color: #fff;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 57.6462%;
+  right: 35.626%;
+  top: 23.533%;
+  bottom: 57.1859%;
+  width: 88px;
+  height: 59px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.vector {
+  position: absolute;
+  left: 59.4801%;
+  right: 37.4881%;
+  top: 5.5556%;
+  bottom: 83.5069%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle11 {
+  position: absolute;
+  left: 0;
+  right: 88.5321%;
+  top: 0.9804%;
+  bottom: 50%;
+  width: 150px;
+  height: 150px;
+  background-color: #ffd233, #ffd233;
+}
+.vaadinTools {
+  position: absolute;
+  left: 3.7462%;
+  right: 92.2018%;
+  top: 7.1895%;
+  bottom: 76.1438%;
+  width: 53px;
+  height: 51px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.nosSpecialistesVousAide {
+  position: absolute;
+  left: 1.6055%;
+  right: 90.0612%;
+  top: 30.719%;
+  bottom: 55.5556%;
+  width: 109px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #446dff;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #446dff;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #446dff;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+}
+.rectangle7 {
+  transform-origin: top left;
+  position: absolute;
+  left: 22.9442%;
+  right: 65.5879%;
+  top: 99.0196%;
+  bottom: -48.0392%;
+  width: 150px;
+  height: 150px;
+  background-color: #397fe8;
+  transform: matrix(-1, 0.0007, -0.0007, -1, 0, 0);
+}
+.jEPROTEGEMAFAMILLE {
+  transform-origin: top left;
+  position: absolute;
+  left: 12.5476%;
+  right: 78.1252%;
+  top: 77.8172%;
+  bottom: 11.3985%;
+  width: 122px;
+  height: 33px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock4 {
+  color: #fff;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.emojioneMonotoneFamilyManWoman {
+  position: absolute;
+  left: 15.1134%;
+  right: 80.1466%;
+  top: 52.6119%;
+  bottom: 27.1266%;
+  width: 62px;
+  height: 62px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle4 {
+  transform-origin: top left;
+  position: absolute;
+  left: 0.0765%;
+  right: 88.4557%;
+  top: 50.1793%;
+  bottom: 0.8011%;
+  width: 150px;
+  height: 150px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  background-color: #fff;
+  transform: matrix(1, -0.0037, 0.0037, 1, 0, 0);
+}
+.qUELQUESCONSEILSPRATIQUES {
+  transform-origin: top left;
+  color: #000;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1.8349%;
+  right: 90.2905%;
+  top: 72.8758%;
+  bottom: 13.3987%;
+  width: 103px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.epInfoFilled {
+  position: absolute;
+  left: 3.1346%;
+  right: 91.9725%;
+  top: 51.6337%;
+  bottom: 28.4316%;
+  width: 64px;
+  height: 61px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle3 {
+  position: absolute;
+  left: 11.4679%;
+  right: 77.0642%;
+  top: 0.9804%;
+  bottom: 50%;
+  width: 150px;
+  height: 150px;
+  background-color: #e8a239;
+}
+.jEFAISDESECONOMIES {
+  color: #397fe8;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 13.5321%;
+  right: 79.7401%;
+  top: 25.4902%;
+  bottom: 63.7255%;
+  width: 88px;
+  height: 33px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.clarityPiggyBankLine {
+  position: absolute;
+  left: 14.9083%;
+  right: 80.8104%;
+  top: 3.9216%;
+  bottom: 78.1046%;
+  width: 56px;
+  height: 55px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.vector2 {
+  position: absolute;
+  left: 35.8437%;
+  right: 43.2122%;
+  top: 28.4827%;
+  bottom: 65.177%;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.vector3 {
+  position: absolute;
+  left: 66.7222%;
+  right: 25.7222%;
+  top: 44.4571%;
+  bottom: 47.9874%;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.vector4 {
+  position: absolute;
+  left: 1.7857%;
+  right: 0.2545%;
+  top: 12.7273%;
+  bottom: 14.0486%;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.unnamed {
+  color: #397fe8;
+  font-size: 15px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 39.927%;
+  right: 45.7873%;
+  top: 36.3125%;
+  bottom: 32.7784%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle42 {
+  position: absolute;
+  left: 22.9358%;
+  right: 65.5963%;
+  top: 0.9804%;
+  bottom: 50%;
+  width: 150px;
+  height: 150px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  background-color: #fff;
+}
+.jEGAGNEENCONFORTDEVIE {
+  color: #000;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 25%;
+  right: 67.1254%;
+  top: 30.3922%;
+  bottom: 60.4575%;
+  width: 103px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.biHouseUpFill {
+  position: absolute;
+  left: 27.1407%;
+  right: 69.2661%;
+  top: 11.7647%;
+  bottom: 73.8562%;
+  width: 47px;
+  height: 44px;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle43 {
+  position: absolute;
+  left: 22.9358%;
+  right: 65.5963%;
+  top: 49.3464%;
+  bottom: 1.634%;
+  width: 150px;
+  height: 150px;
+  background-color: #3c8c20;
+}
+.jAMELIOREMACONSOMMATIONENERGET {
+  color: #fff;
+  font-size: 12px;
+  font-family: Times New Roman, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 24.0061%;
+  right: 66.6667%;
+  top: 77.451%;
+  bottom: 5.2288%;
+  width: 122px;
+  height: 53px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.fluentEarthLeaf24Filled {
+  position: absolute;
+  left: 26.7584%;
+  right: 69.3425%;
+  top: 56.2092%;
+  bottom: 28.7582%;
+  width: 51px;
+  height: 46px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.pourquoiNousChoisir {
+  color: #000;
+  font-size: 24px;
+  font-family: Trochut, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 677px;
+  height: 82px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.pourquoiNousChoisir2 {
+  position: relative;
+  width: 1342px;
+  height: 875px;
+}
+.nosChauffagistesSontQualifiesE {
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1.3785%;
+  right: 1.2295%;
+  top: 0;
+  bottom: 94.2857%;
+  width: 1307px;
+  height: min-content;
+  flex-direction: column;
+}
+.fiabiliteEtProfessionnalismeNo {
+  position: absolute;
+  left: 16.0209%;
+  right: 15.8718%;
+  top: 10.9714%;
+  bottom: 74.7429%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock6 {
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 0;
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.nousAvonsUneConnaissanceApprof {
+  position: absolute;
+  left: 2.31%;
+  right: 4.6945%;
+  top: 32.9143%;
+  bottom: 61.3714%;
+  width: 1248px;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  flex-direction: column;
+}
+.textBlock11 {
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock12 {
+  margin-top: 0;
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.assuranceEtLicenceLorsqueVousE {
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0.149%;
+  right: 3.8003%;
+  top: 41.9429%;
+  bottom: 47.4286%;
+  width: 1289px;
+  height: 93px;
+  text-align: end;
+  align-items: end;
+  flex-direction: column;
+}
+.conseilsDExpertsNosChauffagist {
+  position: absolute;
+  left: 0.149%;
+  right: 0;
+  top: 57.4857%;
+  bottom: 33.9429%;
+  width: 1340px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock13 {
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock14 {
+  margin-top: 0;
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.serviceApresVenteNosChauffagis {
+  position: absolute;
+  left: 0.149%;
+  right: 2.8316%;
+  top: 73.0286%;
+  bottom: 12.6857%;
+  width: 1302px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock15 {
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock16 {
+  margin-top: 0;
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock17 {
+  margin-top: 0;
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.respectDesNormesEtDesReglement {
+  color: #000;
+  font-size: 21px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 3.5768%;
+  top: 94.2857%;
+  bottom: 0;
+  width: 1294px;
+  height: min-content;
+  flex-direction: column;
+}
